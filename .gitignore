@@ -1,0 +1,8 @@
+# Ignore built ts files
+dist/**/*
+
+# Environment file
+.env
+
+# Dependency directory
+node_modules
